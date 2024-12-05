@@ -1,0 +1,3 @@
+LED7Seg_Display.c:29:6:Led7Seg_int	24	static
+LED7Seg_Display.c:35:6:calculator_BCD_to_7SEG	24	static
+LED7Seg_Display.c:56:6:display7SEG	16	static
